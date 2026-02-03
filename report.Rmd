@@ -10,4 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ## RMarkdown Report
 
+This is my introduction....
+
+
+These are my methods...
+
+
+I wrote this on RSTudio........
+
 ## Acknowledgements
